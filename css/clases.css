@@ -1,0 +1,56 @@
+.bgOferta{
+	background-color:#EEEEEE;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+}
+.bgOferta h2{
+	margin-bottom:20px;
+	margin-top:60px;
+}
+.bgClass{
+	background-repeat: no-repeat;
+	padding:170px 20px;
+	color:white;
+	margin-bottom:30px;
+}
+.bgClass div{
+	background:rgba(0,0,0,0.7);
+}
+.bgClass h5{
+	padding-top:30px;
+}
+.bgClass p{
+	padding:20px 40px;
+	color:rgba(255,255,255,0.8);
+}
+.uno{
+	background:url(../img/dance_12.jpg);
+	background-size:cover;
+	background-position:top center;
+}
+.dos{
+	background:url(../img/breakdance.jpg);
+	background-size:cover;
+	background-position:top center;
+}
+.tres{
+	background:url(../img/lirical-jazz.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.cuatro{
+	background:url(../img/arabe.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.cinco{
+	background:url(../img/little.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.seis{
+	background:url(../img/yoga.jpg);
+	background-size:cover;
+	background-position:top center;
+}	

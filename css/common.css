@@ -1,0 +1,86 @@
+*{
+	font-family: "Latolight", sans-serif;
+}
+h1{
+	margin-top:25px;
+}
+h2{
+	margin-top:50px;
+}
+.menu li{
+	display:inline-table;
+	margin:25px 50px;
+}
+.menu a{
+	color: rgb(83, 88, 95);
+	text-decoration:none;
+}
+.button a{
+	text-decoration:none;
+	color:#c2c6c9;
+}
+.bgContact{
+	background:url(../img/shoes_1.jpg);
+	background-size: 60%;
+	background-position:right;
+	background-repeat: no-repeat;
+	height:530px;
+}
+
+.bgContact h1{
+	margin:60px 0px 25px 0px;
+}
+.bgFooter{
+	font-size:14px;
+	color:white;
+	background-color:#192951;
+	height:50px;
+	padding-top:25px;
+	padding-left:15px;
+}
+.bgFrase{
+	font-size:45px;
+	text-align:center;
+	padding:100px 150px;
+	height:300px;
+	color:#192951;
+}
+input{
+	border:none;
+	box-shadow: none;
+}
+
+i{
+	vertical-align: middle
+}
+.form{
+	border:1px solid #C2C2C2;
+	padding:5px;
+	margin:10px 0px;
+}
+
+.formExcept{
+	padding-bottom:70px;
+}
+.button{
+	background-color:#192951;
+	text-align: center;
+	border-radius:5px;
+	padding:10px;
+	margin:10px 0px;
+	margin-bottom:60px;
+}
+.button input{
+	background-color:inherit;
+	color:white;
+}
+.bgTitle{
+	background-color:#EEEEEE;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+}
+.bgTitle h2{
+	margin-bottom:20px;
+	margin-top:60px;
+}
